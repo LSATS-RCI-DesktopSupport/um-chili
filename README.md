@@ -1,5 +1,10 @@
 ![Screenshot of the theme](Preview.png "Preview")
 
+# um-chili
+
+This is a mildly-customized version of the Chili theme for the SDDM display manager for use with KDE Plasma. The oriignal README continues below.
+
+
 # Chili login theme for KDE Plasma
 
 Chili is hot, just like a real chili! Spice up the login experience for your users, your family and yourself. Chili reduces all the clutter and leaves you with a clean, easy to use, login interface with a modern yet classy touch.
